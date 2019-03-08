@@ -1,4 +1,10 @@
 # macpanda
+**updated 3/7/2019:**
+version 2.2 (10.14.3 w/ hdmi audio)
+- updated all kext to latest version
+- included clover pkg 4895 installer
+- tested with fresh install 10.14.3
+
 **updated 11/13/18:**
 Version 2.1 (working 10.14.1 & hdmi audio)
 - Removed all unnecessary kext
